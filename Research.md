@@ -2,7 +2,7 @@
 layout: page
 title: 
 subtitle:
-bigimg: Lassen2.jpg
+bigimg: /img/Lassen2.jpg
 ---
 
 Under Construction 
