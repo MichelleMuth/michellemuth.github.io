@@ -5,5 +5,5 @@ subtitle:
 show-avatar: false`
 ---
 
-Under Construction 
+Under Construction  
 !(\img\Teaching1.jpg)
