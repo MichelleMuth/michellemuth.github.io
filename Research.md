@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Research
+layout: post
+title: 
 subtitle:
 ---
 
