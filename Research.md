@@ -1,6 +1,8 @@
+```
 ---
-layout: base
-title: CV
+layout: post
+title: Research
 ---
+```
 
 Under Construction 
