@@ -1,6 +1,5 @@
-
 ---
-layout: Post
+layout: post
 title: Contact
 ---
 
