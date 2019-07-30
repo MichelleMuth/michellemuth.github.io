@@ -20,6 +20,7 @@ description: Michelle Muth
 
 # List of links in the navigation bar
 navbar-links:
+  Research: "Research"
   CV: "CV"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
