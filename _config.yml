@@ -25,8 +25,9 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
-  Field Photos: "FieldPhotos"
+  Teaching: "Teaching"
   Contact: "Contact"
+  Outreach: "Outreach"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
