@@ -4,8 +4,6 @@ title:
 subtitle:
 ---
 
-## Contact
-
 Email: <mmuth@uoregon.edu>
 
 Personal Page: <https://michellemuth.github.io/>
