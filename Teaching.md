@@ -5,5 +5,6 @@ subtitle:
 show-avatar: false`
 ---
 
-Under Construction  
-![Teaching1](\img\Teaching1.jpg)
+**_Sternberg Museum High School Volcanology Course_**
+
+**_Course Experience_**
