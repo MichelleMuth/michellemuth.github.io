@@ -6,4 +6,4 @@ show-avatar: false`
 ---
 
 Under Construction  
-!(\img\Teaching1.jpg)
+![Teaching1](\img\Teaching1.jpg)
