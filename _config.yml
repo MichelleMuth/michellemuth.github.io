@@ -24,9 +24,9 @@ navbar-links:
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
-  Teaching: "Teaching"
-  Outreach: "Outreach"
-  Resources: "Resources"
+#  Teaching: "Teaching"
+#  Outreach: "Outreach"
+#  Resources: "Resources"
   CV: "CV"
   Contact: "Contact"
 
