@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Contact
+title: 
 subtitle:
 ---
+## Contact
 
 Personal Page: michellemuth.github.io
 Lab Group Page: https://pages.uoregon.edu/pwallace/
