@@ -5,13 +5,13 @@ subtitle:
 show-avatar: false`
 ---
 
-Email: <mmuth@uoregon.edu>
+**Email:** <mmuth@uoregon.edu>
 
-Personal Page: <https://michellemuth.github.io/>
+**Personal Page:** <https://michellemuth.github.io/>
 
-Lab Group Page: <https://pages.uoregon.edu/pwallace/>
+**Lab Group Page:** <https://pages.uoregon.edu/pwallace/>
 
-Physical Mailing Address:  
+**Physical Mailing Address:**  
 Michelle Muth  
 Earth Sciences Department  
 100 Cascade Hall  
