@@ -6,11 +6,11 @@ subtitle:
 
 ## Contact
 
-Email: [mmuth@uoregon.edu](mmuth@uoregon.edu)
+Email: <mmuth@uoregon.edu>
 
-Personal Page: [https://michellemuth.github.io](michellemuth.github.io)
+Personal Page: <https://michellemuth.github.io/>
 
-Lab Group Page: [https://pages.uoregon.edu/pwallace/](https://pages.uoregon.edu/pwallace/)
+Lab Group Page: <https://pages.uoregon.edu/pwallace/>
 
 Physical Mailing Address:  
 Michelle Muth  
