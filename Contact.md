@@ -2,6 +2,7 @@
 layout: page
 title: 
 subtitle:
+show-avatar: false`
 ---
 
 Email: <mmuth@uoregon.edu>
