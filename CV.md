@@ -1,6 +1,6 @@
 ---
 layout: base
-title: About me
+title: CV
 subtitle: PhD Candidate
 ---
 
