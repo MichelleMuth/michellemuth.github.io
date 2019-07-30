@@ -8,7 +8,7 @@ subtitle:
 
 Email: [mmuth@uoregon.edu](mmuth@uoregon.edu)
 
-Personal Page: [michellemuth.github.io](michellemuth.github.io)
+Personal Page: [https://michellemuth.github.io](michellemuth.github.io)
 
 Lab Group Page: [https://pages.uoregon.edu/pwallace/](https://pages.uoregon.edu/pwallace/)
 
