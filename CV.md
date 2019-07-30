@@ -4,4 +4,4 @@ title: CV
 subtitle:
 ---
 
-CV: <a href="MichelleMuth_CV.pdf" download>Download PDF</a>
+[Download PDF](MichelleMuth_CV.pdf)
