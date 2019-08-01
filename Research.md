@@ -1,7 +1,7 @@
 ---
 layout: page
 show-avatar: false`
-bigimg: img/Jugo.png img/subduction_schematic.png img/MI2.jpeg img/MI1.jpeg
+bigimg: img/Jugo.png
 ---
 
 **_Sulfur and Oxygen Fugacity_**
@@ -35,6 +35,7 @@ This self-consistent, high resolution data set allows us to study the compositio
 
 <img src="/img/MI1.jpeg" alt="Kitten"
 	title="A cute kitten" width="150" height="100" />
+
 Related Abstracts:  
 
 Muth, M., Wallace, P.J., Walowski, K. J. (2018). The Role of Slab Melts in the Sulfur Content, Metal Content, and Oxidation State of Primitive Arc Magmas in the Southern Cascades. Presented at 2018 Goldschmidt Conference, Boston, MA 12-17 August
