@@ -16,7 +16,7 @@ My research uses melt inclusiosn to study  his close tie between sulfur and fO<s
 2. How does primary oxygen fugacity affect the behavior of sulfur during the early evolution of arc magmas?
 3. What implciations does sulfur behavior during melting and differentiatons have for ore-forming chalcopphile metals?
 
-![Jugo](img/Jugo.jpeg)
+![Jugo](img/Jugo.png)
 
 ![MI1](img/subduction_schematic.png)
 
