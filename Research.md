@@ -18,6 +18,8 @@ My research uses melt inclusiosn to study  his close tie between sulfur and fO<s
 
 To answer these questions I use melt inclusions, tiny crystals of trapped melt inside of mineral hosts. These inclusiosn act as a snapshot of melt composition at a given point in time
 
+!(/img/MI1.jpg)
+
 **_Warm Subduction Zones: A Case Study in the Lassen Volcanic Region_**
 
 This project uses the Lassen volcanic region as a natural labratory to explore how slab-derived sulfur affects the sulfur content, oxidation state, and metal contents of arc magmas. Lassen is located in the southern Cascades, a subduction zone where very young, hot oceanic crust is being subducted. We analyze relatively primitive olivine-hosted melt inclusions collected from tephra of Lassen cinder cones for major elments, trace elements (including chalcophile metals such as Cu), volatile elements, and Fe and S speciation. 
