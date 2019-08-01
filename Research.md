@@ -16,15 +16,21 @@ My research uses melt inclusiosn to study  his close tie between sulfur and fO<s
 2. How does primary oxygen fugacity affect the behavior of sulfur during the early evolution of arc magmas?
 3. What implciations does sulfur behavior during melting and differentiatons have for ore-forming chalcopphile metals?
 
+![Jugo](img/Jugo.jpg)
+
+![MI1](img/subduction_schematic.jpg)
+
 To answer these questions I use melt inclusions, tiny crystals of trapped melt inside of mineral hosts. These inclusiosn act as a snapshot of melt composition at a given point in time
 
-![MI1](/img/MI1.jpg)
+![MI1](img/MI2.jpg)
 
 **_Warm Subduction Zones: A Case Study in the Lassen Volcanic Region_**
 
 This project uses the Lassen volcanic region as a natural labratory to explore how slab-derived sulfur affects the sulfur content, oxidation state, and metal contents of arc magmas. Lassen is located in the southern Cascades, a subduction zone where very young, hot oceanic crust is being subducted. We analyze relatively primitive olivine-hosted melt inclusions collected from tephra of Lassen cinder cones for major elments, trace elements (including chalcophile metals such as Cu), volatile elements, and Fe and S speciation. 
 
 This self-consistent, high resolution data set allows us to study the composition of the earliest melts formed at Lassen, and minimize the signature of crustal differentiation. Our goal here is to assess these compositions, establishing whether there are causal links between oxidized slab-derived sulfur and oxidation state of Lassen magmas. 
+
+![MI1](img/MI1.jpg)
 
 Related Abstracts:  
 
