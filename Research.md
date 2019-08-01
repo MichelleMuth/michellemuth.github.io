@@ -30,7 +30,7 @@ This project uses the Lassen volcanic region as a natural labratory to explore h
 
 This self-consistent, high resolution data set allows us to study the composition of the earliest melts formed at Lassen, and minimize the signature of crustal differentiation. Our goal here is to assess these compositions, establishing whether there are causal links between oxidized slab-derived sulfur and oxidation state of Lassen magmas. 
 
-![MI1](img/MI1.jpg)
+![MI1](img/MI1.jpeg)
 
 Related Abstracts:  
 
