@@ -20,9 +20,16 @@ My research uses melt inclusiosn to study  his close tie between sulfur and fO<s
 
 ![MI1](img/subduction_schematic.png)
 
+<img src="img/subduction_schematic.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
+
+<img src="/img/subduction_schematic.png" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
+
 To answer these questions I use melt inclusions, tiny crystals of trapped melt inside of mineral hosts. These inclusiosn act as a snapshot of melt composition at a given point in time
 
 ![MI1](img/MI2.jpeg)
+
 
 **_Warm Subduction Zones: A Case Study in the Lassen Volcanic Region_**
 
