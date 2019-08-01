@@ -1,6 +1,7 @@
 ---
 layout: page
 show-avatar: false`
+img: /img/Teaching1
 ---
 
 **_Sulfur and Oxygen Fugacity_**
