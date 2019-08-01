@@ -13,8 +13,8 @@ I lead the curriculum design and execution of a two week volcanology field cours
 
 **_Teaching Assistanceship_**
 
-_Earth's Surface and Environment (Spring 2018)_
+_Earth's Surface and Environment (Spring 2018)_  
 I facilitated and graded lab sections for this introductory class for students within an Earth Science major. Subjects included groundwater and surface processes, sedimentary rocks and environments, chemical and physical weathering.
 
-_Mineralogy (Fall 2017)_
+_Mineralogy (Fall 2017)_  
 I prepared, facilitated, and graded lab sections for students typically in their second or third year within an Earth Science major. Subjects included crystal structure, hand sample identification, and usage of optical microscope.
