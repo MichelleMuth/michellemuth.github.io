@@ -16,9 +16,7 @@ My research uses melt inclusiosn to study  his close tie between sulfur and fO<s
 2. How does primary oxygen fugacity affect the behavior of sulfur during the early evolution of arc magmas?
 3. What implciations does sulfur behavior during melting and differentiatons have for ore-forming chalcopphile metals?
 
-![Jugo](img/Jugo.png)
-
-<img src="img/subduction_schematic.png" alt="Kitten"
+<img src="/img/Jugo.png" alt="Kitten"
 	title="A cute kitten" width="150" height="100" />
 
 <img src="/img/subduction_schematic.png" alt="Kitten"
@@ -26,8 +24,8 @@ My research uses melt inclusiosn to study  his close tie between sulfur and fO<s
 
 To answer these questions I use melt inclusions, tiny crystals of trapped melt inside of mineral hosts. These inclusiosn act as a snapshot of melt composition at a given point in time
 
-![MI1](img/MI2.jpeg)
-
+<img src="/img/MI2.jpeg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 
 **_Warm Subduction Zones: A Case Study in the Lassen Volcanic Region_**
 
@@ -35,8 +33,8 @@ This project uses the Lassen volcanic region as a natural labratory to explore h
 
 This self-consistent, high resolution data set allows us to study the composition of the earliest melts formed at Lassen, and minimize the signature of crustal differentiation. Our goal here is to assess these compositions, establishing whether there are causal links between oxidized slab-derived sulfur and oxidation state of Lassen magmas. 
 
-![MI1](img/MI1.jpeg)
-
+<img src="/img/MI1.jpeg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 Related Abstracts:  
 
 Muth, M., Wallace, P.J., Walowski, K. J. (2018). The Role of Slab Melts in the Sulfur Content, Metal Content, and Oxidation State of Primitive Arc Magmas in the Southern Cascades. Presented at 2018 Goldschmidt Conference, Boston, MA 12-17 August

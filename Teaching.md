@@ -9,9 +9,12 @@ show-avatar: false`
 
 I lead the curriculum design and execution of a two week volcanology field course for high school students. We used the Pacific Northwest as our classroom, traveling up to Mount St. Helens, through eastern Oregon and down into Northern California. Concepts such as volcanic eruption styles, hand sample identification, tephra stratigraphy, and geologic field methods were all covered during this exciting and engaging field course!
 
-![Teaching1](img/Teaching1.jpg)
-![Teaching1](img/Teaching2.jpg)
-![Teaching1](img/Teaching4.jpg)
+<img src="/img/Teaching1.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
+<img src="/img/Teaching2.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
+<img src="/img/Teaching4.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
 
 
 **_Teaching Assistanceship_**
