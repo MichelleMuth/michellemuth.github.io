@@ -11,7 +11,6 @@ I lead the curriculum design and execution of a two week volcanology field cours
 
 ![Teaching1](img/Teaching1.jpg)
 ![Teaching1](img/Teaching2.jpg)
-![Teaching1](img/Teaching3.jpg)
 ![Teaching1](img/Teaching4.jpg)
 
 

@@ -16,13 +16,13 @@ My research uses melt inclusiosn to study  his close tie between sulfur and fO<s
 2. How does primary oxygen fugacity affect the behavior of sulfur during the early evolution of arc magmas?
 3. What implciations does sulfur behavior during melting and differentiatons have for ore-forming chalcopphile metals?
 
-![Jugo](img/Jugo.jpg)
+![Jugo](img/Jugo.jpeg)
 
-![MI1](img/subduction_schematic.jpg)
+![MI1](img/subduction_schematic.png)
 
 To answer these questions I use melt inclusions, tiny crystals of trapped melt inside of mineral hosts. These inclusiosn act as a snapshot of melt composition at a given point in time
 
-![MI1](img/MI2.jpg)
+![MI1](img/MI2.jpeg)
 
 **_Warm Subduction Zones: A Case Study in the Lassen Volcanic Region_**
 
