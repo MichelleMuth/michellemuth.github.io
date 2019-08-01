@@ -1,7 +1,7 @@
 ---
 layout: page
 show-avatar: false`
-img: /img/Teaching1
+bigimg: /img/Jugo.png /img/subduction_schematic.png" /img/MI2.jpeg /img/MI1.jpeg
 ---
 
 **_Sulfur and Oxygen Fugacity_**
