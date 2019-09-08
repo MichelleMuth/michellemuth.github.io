@@ -42,7 +42,7 @@ footer {
     padding: 50px;
 }
 
- p#section-inner {
+ div.section-inner {
     text-align: left;
 }
 
