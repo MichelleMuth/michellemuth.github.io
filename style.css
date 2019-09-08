@@ -38,6 +38,9 @@ section {
     display: flex;
     flex-wrap: wrap;
     font-family: Tahoma, Geneva, sans-serif;
+    width: 300px;
+    padding: 25px;
+    box-sizing: border-box;
 
 }
 
