@@ -43,10 +43,13 @@ section {
 
 a:link {
   color: red;
+  text-decoration: none;
 }
 
 a:active {
   color: blue;
+  text-decoration: none;
+}
 
 footer {
     text-align: center;
