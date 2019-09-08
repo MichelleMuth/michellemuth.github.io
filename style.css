@@ -39,8 +39,14 @@ section {
     flex-wrap: wrap;
     font-family: Tahoma, Geneva, sans-serif;
     width: 70%;
-    
 }
+
+a:link {
+  color: red;
+}
+
+a:active {
+  color: blue;
 
 footer {
     text-align: center;
