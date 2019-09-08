@@ -35,6 +35,8 @@ section {
     justify-content: center;
     align-items: flex start;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 footer {
