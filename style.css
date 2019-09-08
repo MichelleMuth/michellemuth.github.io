@@ -32,8 +32,8 @@ section {
     border: 1px solid black;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
-    text-align: center;
+    align-items: flex;
+    text-align: flex-start;
 }
 
 footer {
