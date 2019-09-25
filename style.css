@@ -63,5 +63,6 @@ footer {
  div.section-inner {
     text-align: left;
     display: flex;
+    flex-direction: column;
 }
 
