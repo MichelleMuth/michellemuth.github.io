@@ -35,9 +35,9 @@ section {
     justify-content: center;
     align-items: flex start;
     text-align: center;
-    display: flex;
+<!--  display: flex;
     flex-wrap: wrap;
-    font-family: Tahoma, Geneva, sans-serif;
+    font-family: Tahoma, Geneva, sans-serif;-->
     width: 70%;
 }
 
