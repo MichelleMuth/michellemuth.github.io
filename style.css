@@ -65,7 +65,7 @@ a:active {
 
 img {
   float: center;
-  justify-content: center;
+  /*justify-content: center;*/
 }
 footer {
     text-align: center;
