@@ -37,6 +37,15 @@ h1 {
 
 }
 
+h2 {
+  width:100%;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Geneva, sans-serif; -->
+
+}
+
 section {
     height: auto;
     /*border: 1px solid black;*/
