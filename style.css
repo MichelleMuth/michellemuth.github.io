@@ -30,17 +30,17 @@ header li {
 
 h1 {
   width:100%;
-  font-size:200%;
+  font-size:250%;
   margin-top: 40px;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   font-family: Arial, Geneva, sans-serif; -->
 
 }
 
 h2 {
   width:100%;
-  font-size:80%;
+  font-size:100%;
   margin-top: 40px;
   display: flex;
   justify-content: left;
