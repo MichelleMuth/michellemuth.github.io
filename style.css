@@ -77,7 +77,7 @@ a:active {
 }
 
 img {
-  float: center;
+  float: left;
   /*justify-content: center;*/
     max-width:100%;
     height:auto;
