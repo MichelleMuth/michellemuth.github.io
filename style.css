@@ -55,6 +55,7 @@ section {
     justify-content: center;
     align-items: flex start;
     text-align: center;
+    float: right;
 /*<!--  display: flex;*/
     flex-wrap: wrap;
     font-family: Tahoma, Geneva, sans-serif; -->
