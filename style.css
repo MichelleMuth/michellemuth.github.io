@@ -77,18 +77,21 @@ a:active {
 }
 
 img {
-  /*float: /**/;*/
+  /*float: ;*/
   justify-content: center;
     box-sizing:border-box;
     max-width:100%;
     height:auto;
+
+    border-radius: 50%;
+    border: solid 50px red;
+
     /*border-right: 5px;*/
     /*border-left: 5px;*/
 }
 
-.image2 {
-  border-radius: 50%;
-}
+/*img.image2 {
+}*/
 
 
 footer {
